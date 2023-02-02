@@ -6,10 +6,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
--  I'm an undergraduate Computer Engineering student at KMITL. 
--  I'm interested in Web designing development.
--  I’m currently learning Java React js
--  I love to watch movie, 🎵 listen to music, and 🌴 travel.
+-  💻  I'm an undergraduate Computer Engineering student at KMITL. 
+-  🖼️  I'm interested in Web designing development.
+-  📖  I’m currently learning Java React js
+-  🍿  I love to watch movie, 🎵  listen to music, and 🌴 travel.
 
 
 

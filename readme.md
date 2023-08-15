@@ -8,7 +8,7 @@
 
 -  💻  I'm an undergraduate Computer Engineering student at KMITL. 
 -  🖼️  I'm interested in Web designing development.
--  📖  I’m currently learning Java React js
+-  📖  I’m currently learning Python React js Typyscript Vue 
 -  🍿  I love to watch movie, 🎵  listen to music, and 🌴 travel.
 
 
